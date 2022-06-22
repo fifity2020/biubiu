@@ -17,11 +17,17 @@
 {"name":"默认主页","url":"https://www.tegouys.com/xgapp.php/v2/"},
 {"name": "9e国语","url": "http://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"name":"Hi影视","url":"http://114.132.251.111:999/lvdou_api.php/v1.vod"},
+{"name":"默认库1(高清M)","url":"http://123.250idc.com/mogai_api.php/v1.vod"},
+{"name":"默认库2(高清M)","url":"http://35ys.cc/api.php/v1.vod"},
+{"name":"大猫影视(高清M)","url":"http://app.ishen520.com/api.php/v1.vod"},
+{"name":"极酷视频(高清M)","url":"https://jiku.vip/mogai_api.php/v1.vod"},
+{"name":"杨桃(高清M)","url":"https://ytys3456.com/mogai_api.php/v1.vod"},
+{"name":"开尔影院(高清M)","url":"https://appx.uy07.com/api.php/v1.vod"},
+{"name":"阿里云(高清M)","url":"http://aliyun.k8aa.com/mogai_api.php/v1.vod"},
+{"name":"阿里影视(高清M)","url":"http://aliys.cn:90/api.php/v1.vod"},
 {"name": "会员影院","url": "http://360yy.cn/api.php/app/"},
 {"name":"4K影院","url":"http://1api.4kdytv.com/api.php/v1.vod"},
 {"name":"南府追剧(高清M)","url":"http://iapp.nfuxs.club/nfuxs.php/v1.vod"},
-{"name":"开尔影院(高清M)","url":"https://appx.uy07.com/api.php/v1.vod"},
-{"name":"阿里影视(高清M)","url":"http://aliys.cn:90/api.php/v1.vod"},
 {"name":"橘子电影(高清M)","url":"http://jz.juzidy.vip/mogai_api.php/v1.vod"},
 {"name":"三日影院(高清M)","url":"https://www.3ri.net/api.php/v1.vod"},
 {"name":"天空影视V1(高清M)","url":"https://tkys.tv/xgapp.php/v1/"},
@@ -44,7 +50,6 @@
 {"name":"DC影视","url":"http://chaorenbb.com/api.php/v1.vod"},
 {"name":"月儿影视","url":"https://yue52.xyz/api.php/v1.vod"}
 ],
-
 "caijizhan": [
 // 填采集站接口,
 // 采集站后缀填写到api.php就可以了，后面那些不用填写，一次只可以填写一个。
