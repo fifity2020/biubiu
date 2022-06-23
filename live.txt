@@ -1,3 +1,32 @@
+##🐾🦚世界##
+亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
+CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
+NHK·华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?zshijd
+NHK·国际,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
+Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?zshijd
+新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+新加坡_CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+BloombergTV+2,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
+KH_TV9,http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8?zshijd
+f时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8?zshijd
+f时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
+KH_FreshNewsTV,http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8?zshijd
+KH_BayonTV,http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?zshijd
+KH_PNN体育,http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?zshijd
+FTVLIVE,http://218.236.58.185:1935/FTVLIVE_MOBILE/Stream_mobile/playlist.m3u8?zshijd
+Channel News Asia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
+半岛电视,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
+半岛电视,https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
+NASATVPublic,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
+CNA(1080p),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?zshijd
+新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+新马Ⅰ亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+##
 ##🗼港澳台##
 凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1?zgangd
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -25,8 +54,6 @@
 明珠台,http://120.84.96.43:808/hls/26/index.m3u8
 J2,http://120.84.96.43:808/hls/86/index.m3u8
 天映电影,http://120.84.96.43:808/hls/85/index.m3u8
-星空卫视,http://120.84.96.43:808/hls/79/index.m3u8
-澳门莲花,http://120.84.96.43:808/hls/24/index.m3u8
 龙祥时代电影,http://120.84.96.43:808/hls/35/index.m3u8
 东森洋片台,http://120.84.96.43:808/hls/33/index.m3u8
 东森电影台,http://120.84.96.43:808/hls/32/index.m3u8
@@ -57,7 +84,6 @@ ViuTV6,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 J2,http://liuy.usa7.20212021.ga/ns.php?id=71
 香港卫视,http://liuy.usa7.20212021.ga/ns.php?id=93
 ViuTv,http://liuy.usa7.20212021.ga/ns.php?id=94
-香港开电视,http://liuy.usa7.20212021.ga/ns.php?id=95
 RHK31,http://liuy.usa7.20212021.ga/ns.php?id=96
 RHK32,http://liuy.usa7.20212021.ga/ns.php?id=97
 TVB星河,http://liuy.usa7.20212021.ga/ns.php?id=76
@@ -100,14 +126,6 @@ SPOTVLIVE,http://liuy.usa7.20212021.ga/ns.php?id=16
 年代MUCH,http://59.125.101.187:10729/http/192.168.77.24:8081/hls/72/814/ch45.m3u8
 中天娱乐,http://59.125.101.187:10734/http/192.168.77.24:8081/hls/67/809/ch26.m3u8
 东森戏剧,http://59.125.101.187:10772/http/192.168.77.24:8081/hls/64/806/ch13.m3u8
-纬来综合,http://59.125.101.187:10770/http/192.168.77.24:8081/hls/68/810/ch32.m3u8
-纬来戏剧,http://59.125.101.187:10756/http/192.168.77.24:8081/hls/69/811/ch33.m3u8
-纬来育乐,http://59.125.101.187:10762/http/192.168.77.24:8081/hls/68/810/ch30.m3u8
-龙华戏剧,http://59.125.101.187:10764/http/192.168.77.24:8066/hls/210/10010/cstv10.m3u8
-龙华戏剧,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
-龙华戏剧,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
-龙华日韩,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8
-龙华日韩,http://59.125.101.187:10763/http/192.168.77.24:8066/hls/210/10011/cstv11.m3u8
 龙华偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
 龙华偶像,http://59.125.101.187:10762/http/192.168.77.24:8066/hls/210/10012/cstv12.m3u8
 卫视中文,http://59.125.101.187:10720/http/192.168.77.24:8081/hls/62/804/ch05.m3u8
@@ -118,8 +136,6 @@ SPOTVLIVE,http://liuy.usa7.20212021.ga/ns.php?id=16
 国家地理,http://59.125.101.187:10709/http/192.168.77.24:8081/hls/61/803/ch01.m3u8
 动物星球,http://59.125.101.187:10719/http/192.168.77.24:8088/hls/70/812/ch37.m3u8
 亚洲旅游,http://59.125.101.187:10744/http/192.168.77.24:8081/hls/76/818/ch61.m3u8
-龙华戏剧[1920*1080],http://59.125.98.83:8534/playlist.m3u8
-龙华日韩[1920*1080],http://59.125.98.83:8535/playlist.m3u8
 龙华偶像[1920*1080],http://59.125.98.83:8536/playlist.m3u8
 华视新闻,http://59.125.98.83:8538/playlist.m3u8
 三立台灣,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ab7c868d-3788-4bfa-8352-930399e5c78a.m3u8
@@ -153,7 +169,6 @@ ELTA體育2,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/
 TVBS新聞,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/c772bec8-0cf3-4f31-b9b4-86511166bc99.m3u8
 EYETV旅遊,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/b9f35b1b-8c3d-45b9-9d5f-97fa2d808ee5.m3u8
 EYETV戲劇,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/35d20aac-a621-438e-8cf1-8433605954c3.m3u8
-CN卡通,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/1ef6144e-d443-4346-be45-788442b24cc3.m3u8
 好萊塢電影,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6995f464-c034-4cf5-9b6a-e94ea4922ced.m3u8
 美亞電影,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ce77a1ce-f273-401d-8e88-1fc4cbab8c80.m3u8
 星衛電影,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/e3128db5-6ea6-4713-9b8b-78d23fbfe92a.m3u8
@@ -186,14 +201,11 @@ TVBS歡樂,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=97
 ELTA體育2,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=111
 ELTA體育3,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=112
 HBO[1920*1080],http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-原住民频道[1280*720],http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
-台湾番薯台[1920*1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 民視[1280*720],http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
 台視[1280*720],http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
 公視[1280*720],http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
 中視經典[1280*720],http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 中視新聞[1280*720],http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
-大愛[1280*720],http://50.7.220.74:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
 華視[1280*720],http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 國家地理臺灣[1280*720],http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 國家地理野生頻道[1280*720],http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
@@ -202,9 +214,6 @@ HBO[1920*1080],http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b500
 罪案偵輯[1280*720],http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
 HBO溫馨家庭[1280*720],http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 動物星球[1920*1080],http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
-三立綜合[1280*720],http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-三立臺灣[1920*1080],http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-JET綜合[1920*1080],http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
 東森綜合[1920*1080],http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
 中天綜合[1920*1080],http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 中天娛樂[1920*1080],http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
@@ -247,9 +256,6 @@ CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 东森财经新闻台,https://git.io/Jgkpc
 TVBS,https://git.io/JgYl2
 中天新聞,https://git.io/Jgkpy
-網路流行音樂電台,https://git.io/JgkA6
-西洋流行音樂電台,https://git.io/JgkAy
-2021華語流行歌曲,https://git.io/JgYR5
 台视新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
@@ -262,7 +268,6 @@ TVBS,https://git.io/JgYl2
 三立inews新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 东森财经新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 华视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 ChannelNewsAsia,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
@@ -1173,32 +1178,4 @@ CCTV17[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212259
 纪实人文,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8?zshangd
 劲爆体育,http://140.207.241.3:8080/live/program/live/jbtyhd/4000000/d1.m3u8?zshangd
 ##
-##🐾🦚世界##
-亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
-CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
-NHK·华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?zshijd
-NHK·国际,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
-Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?zshijd
-新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-新加坡_CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-BloombergTV+2,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
-KH_TV9,http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8?zshijd
-f时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8?zshijd
-f时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
-KH_FreshNewsTV,http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8?zshijd
-KH_BayonTV,http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?zshijd
-KH_PNN体育,http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?zshijd
-FTVLIVE,http://218.236.58.185:1935/FTVLIVE_MOBILE/Stream_mobile/playlist.m3u8?zshijd
-Channel News Asia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
-半岛电视,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
-半岛电视,https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
-NASATVPublic,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
-CNA(1080p),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?zshijd
-新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-新马Ⅰ亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-##
+
